@@ -6,7 +6,7 @@
 💻 chairman of EDOC (Alogorithm study club in Ewha)  
 👩‍🏫 tutor of Altu-Bitu (Algorithm tutoring program of Ewha SW)  
 ### Interests
-🍎 Computer Vision  
+🍎 Computer Graphics 
 🍊 Deep Learning  
 ### Tech Stack & I'm currently learning...
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c&logoColor=white"/></a>
