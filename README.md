@@ -7,7 +7,7 @@
 👩‍🏫 tutor of Altu-Bitu (Algorithm tutoring program of Ewha SW)  
 ### Interests
 🍎 Computer Graphics  
-🍊 Deep Learning 
+🍊 Deep Learning  
 🍒 Computer Vision  
 ### Tech Stack & I'm currently learning...
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c&logoColor=white"/></a>
